@@ -1,0 +1,60 @@
+
+
+
+/*Header*/
+
+header{
+	background-color: grey;
+	height: 70px;
+	padding: 10px 30px;
+}
+
+.avatar{
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	background-color: white;
+	float: left;
+}
+
+.name-user{
+	height: 45px;
+	width: 300px;
+	color: white;
+	float: left;
+	margin-left: 10px
+}
+
+/*Contenedores*/
+
+.style-box-left{
+	background-color: #F1C40F;
+	color: #fff;
+}
+
+.style-box-right{
+	height: 300px; 
+
+}
+
+.align-content{
+	margin: 30px;
+}
+
+/* Class Post*/
+
+.boxPostContent{
+	height: auto;
+	width: 100%;
+	background-color: #F2F3F4;
+	padding: 10px 10px 10px 25px;
+	margin-bottom: 20px;
+}
+
+#closeButtom{
+	height: 20px;
+	width: 20px;
+	float: right;
+	color: #000;
+	font-size: 20px;
+}
